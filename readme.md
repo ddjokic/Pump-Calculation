@@ -19,7 +19,7 @@ Useful if one needs Pump Curve H-Q equation, based on given points - eg. maker's
 
 <h4> viscosrevice.py<h4>
 
-Recalculates Delivery, Head, Efficiency and Power of the centrifugal pump from **Water Viscosity**, usually provided, by the maker to real pumped fluid using **Hydraulic Institute** standards.
+Recalculates Delivery, Head, Efficiency and Power of the centrifugal pump from **Water Viscosity**, usually provided by the maker, to real pumped fluid using **Hydraulic Institute** standards.
 
 There are two files:
 - viscoservice-US.py using US Customary Units - *gpm* for flow and *feet* for head;
